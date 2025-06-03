@@ -15,7 +15,7 @@ const HeroSection = () => {
 
           {/* Main Heading */}
           <h1 className="text-5xl md:text-7xl font-bold text-gray-900 mb-8 animate-slide-up font-korean">
-            Outlook 관련된 모든 것을 
+            outlook bot
             <span className="bg-gradient-to-r from-outlook-600 to-outlook-800 bg-clip-text text-transparent">
               도와드립니다
             </span>
